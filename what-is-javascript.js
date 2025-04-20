@@ -1,6 +1,6 @@
 // JavaScript Nedir ve Nasıl Çalışır?
 // ==================================
-// JavaScript, web sayfalarını interaktif hale getirmek için kullanılan yüksek seviyeli, 
+// JavaScript, web sayfalarını interaktif hale getirmek için kullanılan yüksek seviyeli,
 // yorumlanabilir bir programlama dilidir.
 
 // 1. JavaScript Nedir?
